@@ -48,6 +48,6 @@ printf("%s","Sorted array is: ");
 /**     Instructions:
 
 To Execute : gcc -o insertionSort insertionSort.c
-To Compile     : ./insertionSort
+To Compile : ./insertionSort
 
 */
