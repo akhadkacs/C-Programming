@@ -47,7 +47,7 @@ printf("%s","Sorted array is: ");
 
 /**     Instructions:
 
-To Compile : gcc -o insertionSort insertionSort.c
-To Run     : ./insertionSort
+To Execute : gcc -o insertionSort insertionSort.c
+To Compile     : ./insertionSort
 
 */
